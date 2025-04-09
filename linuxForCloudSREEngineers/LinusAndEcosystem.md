@@ -79,3 +79,13 @@ its allow multiple program runs simultoniously
         - .ini
         - . cf
         
+
+
+## ssh Connection
+
+ssh -i path of pem user@ip or aws linux url
+
+In aws Linux  used in EC2 linux
+
+- its secure and connect to anywhere
+
